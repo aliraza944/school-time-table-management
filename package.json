@@ -1,0 +1,19 @@
+{
+  "name": "school-time-table-management",
+  "version": "1.0.0",
+  "description": "Schools near my area manually set the time table for all classes and the teachers. It usually takes them nearly a month to set the time table for the classes, teachers, resolve any conflicts in the time, setup and keep track of all the available slots. This is a tiring work that can be solved and made efficients by the coding.<br />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliraza944/school-time-table-management.git"
+  },
+  "author": "aliraza944",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliraza944/school-time-table-management/issues"
+  },
+  "homepage": "https://github.com/aliraza944/school-time-table-management#readme"
+}
