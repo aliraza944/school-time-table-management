@@ -37,10 +37,6 @@ We'd also love PRs. If you're thinking of a large PR, we advise opening up an is
    cd school-time-table-management
 ```
 
-```
-   git init
-```
-
 **4.** Create a new branch:
 
 ```
@@ -52,7 +48,7 @@ We'd also love PRs. If you're thinking of a large PR, we advise opening up an is
 **6.** Stage your changes and make a commit
 
 ```
-   git add .
+   git add <files you have changed>
 ```
 
 ```
